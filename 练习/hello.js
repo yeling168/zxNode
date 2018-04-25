@@ -1,0 +1,1 @@
+console.log('×ÔÑ§node.js');
